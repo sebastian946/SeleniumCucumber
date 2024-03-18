@@ -1,0 +1,10 @@
+constant\constant.class
+pages\LoginPage.class
+pages\LogininPage.class
+stepDefinition\LoginPage.class
+pages\HomePage.class
+pages\OnlineProductsPage.class
+pages\RegistrationPage.class
+stepDefinition\HomePage.class
+runner\TestRunner.class
+stepDefinition\LoginInPage.class
